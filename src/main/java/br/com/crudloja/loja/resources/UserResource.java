@@ -14,7 +14,7 @@ import br.com.crudloja.loja.entities.User;
 @RequestMapping(value = "/users")
 public class UserResource {
 	
-	/**Controladores Rest */
+	/*Controladores Rest */
 	
 	
 	@GetMapping
